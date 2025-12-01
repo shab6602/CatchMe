@@ -2,8 +2,8 @@
 // v:google.chrome
 
 // API Keys
-const VIRUSTOTAL_API_KEY = '45272248113d37c7be61dc265cb18e71ae70eceaecd238d13d34ceb94970f77e';
-const GEMINI_API_KEY = 'AIzaSyB6GePBCAAg5k2zxHgcQ_mEwaBePxD85Bg';
+const VIRUSTOTAL_API_KEY = '<your api key>';
+const GEMINI_API_KEY = 'your api key';
 
 // Cache for results (to speed up repeated checks)
 const cache = new Map();
