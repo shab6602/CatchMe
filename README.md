@@ -1,4 +1,5 @@
-# CatchMe
+# CatchMe <img width="107" height="94" alt="image" src="https://github.com/user-attachments/assets/09d76900-5814-41e5-8c75-df4dfca89726" />
+
 CatchMe is an intelligent phishing-detection browser extension that safeguards users from malicious websites and suspicious email links.
 It combines VirusTotal threat intelligence with Gemini AI content analysis to evaluate URLs and webpage behavior in real time and provide instant, actionable security insights.
 # Features
