@@ -18,4 +18,31 @@ Shows warnings and quick security suggestions to help users avoid unsafe sites.
 ## Lightweight & Fast
 Designed for minimal performance overhead and smooth browser usage.
 
+# How It Works
+
+1)User visits a webpage or clicks a link.
+
+2)CatchMe extracts the URL and sends it to VirusTotal for reputation analysis.
+
+3)Simultaneously, the webpage’s content is processed by Gemini AI to detect phishing cues such as:
+
+  a) Urgency or fear-based language
+
+  b) Fake login pages
+
+  c) Spoofed branding and deceptive UI
+
+4)Results are combined into a final risk score and shown to the user through the extension popup.
+
+# TechStack
+JavaScript – Core logic
+
+HTML/CSS – UI and popup design
+
+VirusTotal API – URL reputation checks
+
+Gemini AI API – Semantic content analysis
+
+Browser Extension APIs – For Chrome/Edge/Brave/Firefox compatibility
+
 
